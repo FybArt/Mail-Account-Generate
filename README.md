@@ -1,5 +1,7 @@
-[sadsad](https://github.com/)
 # Mail Account Generate
+[Download Now](https://github.com/FybArt/Mail-Account-Generate/releases/tag/1)
+
+
 
 
 **Mail Account Generate** is a tool designed to automate the creation of email accounts across various email service providers. This utility is useful for testing purposes, such as load testing email systems or generating accounts for automated processes.
